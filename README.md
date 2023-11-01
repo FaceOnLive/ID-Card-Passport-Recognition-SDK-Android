@@ -1,4 +1,8 @@
-✨ Update: Our API portal is now live, offering free APIs for various AI solutions, including face recognition, liveness detection, and ID document recognition.
+✨ _**Update (Oct 26, 2023):**_
+We are on Hugging Face, get your own SDK Servers by duplicating spaces at https://huggingface.co/FaceOnLive.
+
+✨ _**Update (Apr 10, 2023):**_
+Our API portal is now live, offering free APIs for various AI solutions, including face recognition, liveness detection, and ID document recognition.<br/>
 Make sure to check it out at https://getapi.faceonlive.com and take advantage of our free offerings.
 <h1 align="center">ID Card, Passport, Driver License Recognition SDK for Android</h1>
 <p align="center">On-Device & Offline, Robust, ID Card, Passport, Driver License OCR SDK for Android</p>
