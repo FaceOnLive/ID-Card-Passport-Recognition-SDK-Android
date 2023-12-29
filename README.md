@@ -8,7 +8,9 @@ Make sure to check it out at https://getapi.faceonlive.com and take advantage of
 <p align="center">On-Device & Offline, Robust, ID Card, Passport, Driver License OCR SDK for Android</p>
 
 <p align="center">
-<a href="https://twitter.com/intent/tweet?text=On-Device,%20Robust,%20ID%20Card,%20Passport,%20Driver%20License%20OCR%20SDK%20for%20Android%0D%0D&url=https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android%0D%0D&hashtags=computervision,deeplearning,ocr,identity,idcard,passport,driverlicense,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
+<a href="https://twitter.com/intent/tweet?text=On-Device,%20Robust,%20ID%20Card,%20Passport,%20Driver%20License%20OCR%20SDK%20for%20Android%0D%0D&url=https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android%0D%0D&hashtags=computervision,deeplearning,ocr,identity,idcard,passport,driverlicense,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>&emsp;
+<a target="_blank" href="https://wa.me/+17074043606"><img src="https://img.shields.io/badge/whatsapp-faceonlive-blue.svg?logo=whatsapp " alt="www.faceonlive.com"></a>&emsp;
+<a target="_blank" href="https://huggingface.co/spaces/FaceOnLive/ID-Document-Recognition-SDK"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="www.faceonlive.com"></a>
 </p>
 
 ## :muscle:  Partnership / Cooperation / Project Discussion
@@ -22,6 +24,10 @@ Make sure to check it out at https://getapi.faceonlive.com and take advantage of
 </a>
 </br>
 </br>
+
+#
+Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/FaceOnLive/ID-Document-Recognition-SDK)
+#
 
 https://user-images.githubusercontent.com/91896009/147763694-c2416845-f066-4ab0-9326-fa8eca2a3c53.mp4
 
