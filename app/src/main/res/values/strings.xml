@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IDCardRecognition</string>
+
+
+    <string name="full_name">Full Name</string>
+    <string name="images">Images</string>
+    <string name="portrait">Portrait</string>
+    <string name="document">Document</string>
+    <string name="position">Position</string>
+    <string name="quality">Quality</string>
+    <string name="mrz">MRZ</string>
+    <string name="documentName">Document Name</string>
+    <string name="issuingStateCode">Issuing State Code</string>
+</resources>
